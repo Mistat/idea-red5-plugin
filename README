@@ -1,0 +1,4 @@
+
+If MacOSX need to exec follow command.
+
+chmod +x /Applications/Red5.app/Contents/Resources/Java/red5.sh
